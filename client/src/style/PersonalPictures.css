@@ -1,0 +1,19 @@
+.personal-pictures_header {
+  display: flex;
+  justify-content: center;
+}
+
+.personal-pictures_header2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.personal-pictures_contents {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 10px;
+  /* padding: 5px; */
+}
+
